@@ -16,17 +16,8 @@ Preview
     Preview Desktop
     <br>
     <br>
-    <img  src="assets/img/Cheff.gif">
+    <img  src="./public/jobhub.gif">
 </h2>
-
-<h2 align="center">
-    Preview Mobile
-    <br>
-    <br>
-    <img  src="assets/img/Cheff-mobile.gif">
-</h2>
-
-
 
 
 
